@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c88bafa9.chunk.css",
+    "main.js": "/static/js/main.156edd5c.chunk.js",
+    "main.js.map": "/static/js/main.156edd5c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bfe9cc86.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bfe9cc86.js.map",
+    "static/js/2.2277f839.chunk.js": "/static/js/2.2277f839.chunk.js",
+    "static/js/2.2277f839.chunk.js.map": "/static/js/2.2277f839.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c88bafa9.chunk.css.map": "/static/css/main.c88bafa9.chunk.css.map",
+    "static/js/2.2277f839.chunk.js.LICENSE.txt": "/static/js/2.2277f839.chunk.js.LICENSE.txt",
+    "static/media/offline.6b59ce90.png": "/static/media/offline.6b59ce90.png",
+    "static/media/app.css": "/static/media/our_bg.632701e3.png",
+    "static/media/peace.787553ac.png": "/static/media/peace.787553ac.png",
+    "static/media/plan.e265c172.png": "/static/media/plan.e265c172.png",
+    "static/media/strikes.4f3f3fa5.png": "/static/media/strikes.4f3f3fa5.png",
+    "static/media/telephone.99579fdd.png": "/static/media/telephone.99579fdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfe9cc86.js",
+    "static/js/2.2277f839.chunk.js",
+    "static/css/main.c88bafa9.chunk.css",
+    "static/js/main.156edd5c.chunk.js"
+  ]
+}
